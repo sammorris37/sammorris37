@@ -1,5 +1,3 @@
-# 👋 Hi, I'm @sam
-
 💻 Shopify & WordPress Developer  
 ⚡ Building fast, scalable eCommerce experiences
 
