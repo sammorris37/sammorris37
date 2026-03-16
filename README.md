@@ -1,3 +1,5 @@
+## 👋 Hi, I'm [Your Name]
+
 💻 Shopify & WordPress Developer  
 ⚡ Building fast, scalable eCommerce experiences
 
