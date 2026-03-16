@@ -1,39 +1,15 @@
-### 👋 Hi, I'm @sam
+## 👋 Hi, I'm @sam
 
 💻 Shopify & WordPress Developer  
 ⚡ Building fast, scalable eCommerce experiences
 
 I specialize in developing and customizing **Shopify themes, WordPress sites, and WooCommerce stores**, focusing on performance, maintainability, and clean UI implementation.
 
-### 🚀 What I Build
+## 🚀 What I Build
 
 - Shopify **custom themes**
 - WordPress **custom themes** / **plugin development**
 - Performance focused **frontend architecture** / **component based builds**
-
-### 🧰 Tech Stack
-
-**Shopify**
-- Liquid
-- Shopify Theme Development
-- Custom Sections & Blocks
-- Shopify Functions
-- Variant & Cart Customization
-- Metafields & Metaobjects
-
-**WordPress**
-- Custom Themes
-- WooCommerce Development
-- Advanced Custom Fields (ACF)
-- Custom Post Types
-- REST API
-
-**Tools**
-- Git / GitHub
-- Webpack / Vite
-- NPM
-- Figma
-- VS Code
 
 ## 🌍 Let's Connect
 
