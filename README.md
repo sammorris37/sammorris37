@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm @sam
 
 💻 Shopify & WordPress Developer  
 ⚡ Building fast, scalable eCommerce experiences
