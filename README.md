@@ -12,6 +12,30 @@ I specialize in developing and customizing **Shopify themes, WordPress sites, an
 - ACF / Carbon Fields driven **component based builds**
 - Performance focused **frontend architecture**
 
+## 🧰 Tech Stack
+
+**Shopify**
+- Liquid
+- Shopify Theme Development
+- Custom Sections & Blocks
+- Shopify Functions
+- Variant & Cart Customization
+- Metafields & Metaobjects
+
+**WordPress**
+- Custom Themes
+- WooCommerce Development
+- Advanced Custom Fields (ACF)
+- Custom Post Types
+- REST API
+
+**Tools**
+- Git / GitHub
+- Webpack / Vite
+- NPM
+- Figma
+- VS Code
+
 ## 🌍 Let's Connect
 
 - Portfolio: https://yourwebsite.com
