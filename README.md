@@ -9,8 +9,7 @@ I specialize in developing and customizing **Shopify themes, WordPress sites, an
 
 - Shopify **custom themes**
 - WordPress **custom themes** / **plugin development**
-- ACF / Carbon Fields driven **component based builds**
-- Performance focused **frontend architecture**
+- Performance focused **frontend architecture** / **component based builds**
 
 ## 🧰 Tech Stack
 
@@ -38,9 +37,9 @@ I specialize in developing and customizing **Shopify themes, WordPress sites, an
 
 ## 🌍 Let's Connect
 
-- Portfolio: https://yourwebsite.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: you@email.com
+- Portfolio: https://www.sammorris.co.uk
+- LinkedIn: https://www.linkedin.com/in/sam-morris-22a3bb109/
+- Email: sammorris37@gmail.com
 
 <!---
 sammorris37/sammorris37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
